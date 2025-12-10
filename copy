@@ -1,0 +1,19 @@
+# =============================
+# Project structure (multiple files)
+# =============================
+# Copy each block into its matching file path.
+#
+# app.py
+# logic/model.py
+# layout/controls.py
+# components/kpis.py
+# charts/emissions.py
+# charts/noise.py
+# charts/value.py
+# charts/employment.py
+# assets/style.css (optional)
+# =============================
+
+# -----------------------------
+# File: app.py
+# -----------------------------
