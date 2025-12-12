@@ -1,0 +1,8 @@
+dash
+gunicorn
+pandas 
+numpy
+dash_bootstrap_components
+sys
+geopandas
+typing
