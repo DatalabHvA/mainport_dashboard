@@ -3,6 +3,7 @@ dash_table
 gunicorn
 pandas 
 numpy
+openpyxl
 dash_bootstrap_components
 geopandas
 typing
