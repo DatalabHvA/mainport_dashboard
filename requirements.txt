@@ -5,6 +5,6 @@ pandas
 numpy
 openpyxl
 dash_bootstrap_components
-pyarrow.feather
+pyarrow
 geopandas
 typing
